@@ -1,6 +1,8 @@
 #### AWS Certified Cloud Practitioner Certification Exam Preparation Kit
 
 CLF-C01 Exam Guide
+---
+
 There are 4 exam domains :
 1. Cloud Concepts (26%) : Cloud Concepts covers AWS’ cloud value proposition, cloud economics, and cloud architecture design principles.
 2. Technology (33%) : Technology covers methods of deployments and operations, global infrastructure, AWS services, and technology support.
