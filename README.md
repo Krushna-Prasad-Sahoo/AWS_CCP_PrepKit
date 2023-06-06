@@ -13,3 +13,9 @@ There are 4 exam domains :
 management capabilities.
 4. Billing and Pricing (16%) : Billing and Pricing covers comparing pricing models, account structures, billing, pricing, and billing support 
 resources.
+
+---
+
+Let's discuss few importnant points on <b>Cloud Computing Concepts</b>.
+Physical Server 
+Virtual Machine (VM)
