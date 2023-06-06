@@ -1,6 +1,9 @@
-#### AWS Certified Cloud Practitioner Certification Exam Preparation Kit
+### AWS Certified Cloud Practitioner Certification Exam Preparation Kit
+
+![](https://file-uploads.teachablecdn.com/31580d059e984761bdd0046a3595bce1/48aaf0c150454b33b5d44f123c3344e9)
 
 CLF-C01 Exam Guide
+
 ---
 
 There are 4 exam domains :
